@@ -1,0 +1,25 @@
+{
+  "name": "proyect-landing-lacteos-42",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markush42/proyect-landing-lacteos-42.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markush42/proyect-landing-lacteos-42/issues"
+  },
+  "homepage": "https://github.com/Markush42/proyect-landing-lacteos-42#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-ejs-layouts": "^2.5.1"
+  }
+}
